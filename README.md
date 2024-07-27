@@ -1,5 +1,5 @@
 - 👋 Hola,soy  @Tomas-Canete 
-- 👀 estoy interesado en el desarrollo web Frontend y Backend 
+- 👀 Desarrollo web Frontend y Backend 
 - 🌱 Actualmente estoy estudiando dentro de la plataforma TodoCode ...
 - 💞️ Sueño con llegar a colaborar con las empresas mas grandes del mercado dentro de mi especialidad ...
 
